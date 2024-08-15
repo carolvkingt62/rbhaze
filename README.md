@@ -32,7 +32,8 @@
 对于无法使用国内卡支付的情况，使用虚拟信用卡是一个有效的替代方案。
 
 1. **选择虚拟信用卡提供商**  
-   推荐使用 [FOMEPay](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)，它支持多种卡头，使用门槛低。
+
+推荐一个虚拟信用卡开卡平台，包含香港、美国万事达 VISA 等多种卡头，0 月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.dupay.one/](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)
 
 2. **注册并充值**  
    根据平台指引注册账户，使用微信或支付宝等方式充值。
@@ -47,3 +48,4 @@
 ## 结论
 
 虽然使用国内Visa、Mastercard或银联卡直接支付可能存在挑战，但通过开通国际支付功能、使用虚拟信用卡或其他支付工具，您仍然可以顺利订阅ChatGPT Plus。选择合适的支付方式，享受ChatGPT Plus带来的高级AI对话体验。
+
